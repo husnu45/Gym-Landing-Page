@@ -131,7 +131,7 @@
 
 
   
-  ** NOTE : 🤜 This final project is an assignment from the Patika+ bootcamp program that I am attending. **
+  ** NOTE : 🤜 This final project is an assignment from the Patika+ bootcamp program that I am attending. 🤜 Special Thanks to our mentor, Ersin Mutlu, for their efforts in teaching us. **
 
 
   
