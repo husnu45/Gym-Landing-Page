@@ -92,6 +92,44 @@
   ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/a69003fb-c8aa-4b9a-9f43-9a0a8ca95a0c)
 
 
+  <h1> 📱 At 576 pixels, the responsive view would be like this. 📱  </h1>
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/a0d96e21-4118-41fd-ba43-3f6ae53b9a42)
+
+  You can also see the navbar stays fixed at the top while navigating the page
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/b8d83af5-a61b-4e35-ae62-152fc3df19b5)
+
+  And Hamburger Menu is just works fine 
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/3a88f76d-fc5e-4875-95a7-534d7e713ba3)
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/bb676273-355b-4ce8-bf62-7e5ecf58a5e4)
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/7267e025-9bcd-4e66-886e-245d77fb5a62)
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/c9837817-18d2-43da-8e0a-78550460a8fb)
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/e4186cbb-225c-4831-8564-a48393bb88c8)
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/e6ef4696-12c7-41d1-b0fa-f2b679944ad1)
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/28b1fbb1-e412-4bc1-b74f-f7ec398710b9)
+
+  ![image](https://github.com/husnu45/Gym-Landing-Page/assets/120014374/7bef870c-b399-4494-a63a-f600d1ae27d2)
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   ** NOTE : 🤜 This final project is an assignment from the Patika+ bootcamp program that I am attending. **
 
